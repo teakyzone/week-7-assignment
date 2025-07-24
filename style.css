@@ -1,5 +1,5 @@
 body {
-    background-color: darkgreen;
+    background-color: rgb(156, 176, 156);
 }
 
 #headerImage {
@@ -11,7 +11,9 @@ body {
 h2 {
     color: white;
     text-align: center;
+
 }
+:focus { outline: 2px solid #ffcc00; }
 
 p {
     color: white;
@@ -24,4 +26,20 @@ p {
     justify-content: center;
     margin-top: 20px;
     text-align: center;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgba(166, 175, 164, 0.8);
+}
+#responseContainer {
+
+    justify-content: center;
+    ul {
+        list-style-type: none;
+        padding: 0;
+        text-align: center;
+    }
+
+
+    
 }
