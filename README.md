@@ -1,19 +1,14 @@
 # week-7-assignment
 
 
-# Project name:
+# Project name: Moods
 
-### Render link (if applicable):
 
 ### Live Github Pages link(if applicable):
 
-### Team members (if in a group project):
-
--
--
--
 
 ## Project description:
+
 
 (e.g. A site which both allows you to create a virtual pantry of all the food items in your house and see which recipes you might want to cook using those ingredients.)
 
@@ -52,7 +47,7 @@ Please mention the requirements you met and which goals you achieved for this as
 
 ### 🎯 If so, could you please tell us what was it that you found difficult about these tasks?
 
--
+- Choosing an API suitable for what I wanted was difficult, I initially had the idea for the user to search via mood to return a suitable meme. (using IMG flip) After reading the rules of IMG flip I realised the user would need a membership/login. (This was after i crafted the html and java for it) (as i write this I'm thinking about another API to use)
 -
 
 ### What went really well and what could have gone better?
@@ -67,8 +62,8 @@ Please mention the requirements you met and which goals you achieved for this as
 
 ### Describing errors or bugs you encountered while completing your assignment:
 
--
--
+- undefined (reading 'forEach') as I didn't include data that the code could recognise within the API 
+- Access to fetch at 'https://api.ksoft.si/music/recommendations?q=happy&limit=10' from origin 'http://127.0.0.1:5500' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 
 ### References:
 
